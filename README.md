@@ -1,4 +1,4 @@
-##  Hi, i am Enzo Krzmienszki Neves 👋
+##  Hi, i'm Enzo Krzmienszki Neves 👋
 <div>
   <a href="https://github.com/Enzo-Neves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzo-Neves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
