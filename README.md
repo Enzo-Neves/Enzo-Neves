@@ -22,3 +22,5 @@
 - 📫 How to reach me: enzo.neves@edu.pucrs.br
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i love learning   
+        
+        ![Snake animation](https://github.com/Enzo-Neves/Enzo-Neves/blob/output/github-contribution-grid-snake.svg)
