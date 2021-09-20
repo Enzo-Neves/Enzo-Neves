@@ -16,7 +16,7 @@
       <a href = "enzo.neves93@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
-- 🔭 I’m currently working on Virtual Humans Lab
+- 🔭 I’m currently working on Wealess Cyber security of PUCRS.
 - 🌱 I’m currently learning Computer Science
 - 🤔 I’m looking for help with Cyber security
 - 📫 How to reach me: enzo.neves@edu.pucrs.br
