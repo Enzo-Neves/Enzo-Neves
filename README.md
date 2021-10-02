@@ -1,3 +1,5 @@
+<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
+
 ##  Hi, i'm Enzo Krzmienszki Neves 👋
 <div>
   <a href="https://github.com/Enzo-Neves">
@@ -23,3 +25,4 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i love learning   
         ![Snake animation](https://github.com/Enzo-Neves/Enzo-Neves/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
