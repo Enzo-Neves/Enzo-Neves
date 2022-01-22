@@ -25,6 +25,5 @@
  - How to reach me: enzo.neves@edu.pucrs.br
  
         
-        ![Snake animation](https://github.com/Enzo-Neves/Enzo-Neves/blob/output/github-contribution-grid-snake.svg)
         
 <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
