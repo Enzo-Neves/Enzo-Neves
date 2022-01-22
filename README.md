@@ -20,9 +20,9 @@
       <a href="https://www.instagram.com/_enzoneves_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
       <a href = "enzo.neves93@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
        
-  I’m currently learning Computer Science
-  I’m looking for help with Cyber security
-  How to reach me: enzo.neves@edu.pucrs.br
+ - I’m currently learning Computer Science
+ - I’m looking for help with Cyber security
+ - How to reach me: enzo.neves@edu.pucrs.br
 ## 
         
         ![Snake animation](https://github.com/Enzo-Neves/Enzo-Neves/blob/output/github-contribution-grid-snake.svg)
